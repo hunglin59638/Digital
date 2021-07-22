@@ -1,0 +1,50 @@
+P10587.4	P10587.4 RecName: Full=Myosin-11; AltName: Full=Myosin heavy chain 11; AltName: Full=Myosin heavy chain, gizzard smooth muscle [Gallus gallus]	100	100	2179
+NP_990605.2	NP_990605.2 myosin-11 [Gallus gallus]	100	100	2178
+XP_015144636.1	XP_015144636.1 collagen alpha-3(VI) chain isoform X8 [Gallus gallus]	100	100	5064
+NP_990865.2	NP_990865.2 collagen alpha-3(VI) chain precursor [Gallus gallus]	100	100	5294
+XP_015144631.1	XP_015144631.1 collagen alpha-3(VI) chain isoform X3 [Gallus gallus]	100	100	5465
+XP_015144629.1	XP_015144629.1 collagen alpha-3(VI) chain isoform X1 [Gallus gallus]	100	100	5466
+XP_015144632.1	XP_015144632.1 collagen alpha-3(VI) chain isoform X4 [Gallus gallus]	100	100	5464
+XP_015134776.1	XP_015134776.1 spectrin alpha chain, non-erythrocytic 1 isoform X9 [Gallus gallus]	100	100	4762
+XP_015134773.1	XP_015134773.1 spectrin alpha chain, non-erythrocytic 1 isoform X6 [Gallus gallus]	100	100	4772
+XP_015134775.1	XP_015134775.1 spectrin alpha chain, non-erythrocytic 1 isoform X8 [Gallus gallus]	100	100	4752
+NP_990808.1	NP_990808.1 myosin-9 [Gallus gallus]	100	100	2053
+NP_001186354.1	NP_001186354.1 spectrin beta chain, non-erythrocytic 1 [Gallus gallus]	100	100	4510
+CAE51322.1	CAE51322.1 basement membrane-specific heparan sulfate proteoglycan core protein precursor [Gallus gallus]	100	100	7906
+XP_015148423.1	XP_025010172.1 filamin-B isoform X1 [Gallus gallus]	98.7	100	5389
+NP_001025512.2	XP_025010177.1 filamin-B isoform X5 [Gallus gallus]	98.6	100	5276
+XP_015140229.1	XP_015140229.1 collagen alpha-1(XII) chain isoform X3 [Gallus gallus]	100	100	5529
+NP_990352.2	NP_990352.2 collagen alpha-1(XII) chain precursor [Gallus gallus]	100	100	5643
+NP_990772.1	6NR7_A Chain A, Vinculin [Gallus gallus]	98.2	100	2006
+XP_015143689.1	XP_015143689.1 vinculin isoform X4 [Gallus gallus]	100	100	2136
+XP_015147420.1	XP_015147420.1 fibrillin-1 isoform X1 [Gallus gallus]	100	100	3306
+BAE16337.1	BAE16337.1 ovotransferrin BB type [Gallus gallus]	100	100	1455
+NP_001038129.1	NP_001038129.1 transitional endoplasmic reticulum ATPase [Gallus gallus]	100	100	1584
+NP_001103255.1	NP_001103255.1 heat shock protein HSP 90-alpha [Gallus gallus]	100	100	1335
+NP_001026562.2	NP_001026562.2 ATP synthase subunit beta, mitochondrial precursor [Gallus gallus]	100	100	1013
+AAP37959.1	AAN18280.1 heat shock protein Hsp70 [Gallus gallus]	100	100	1228
+XP_004935680.2	XP_004935680.2 A-kinase anchor protein 12 isoform X1 [Gallus gallus]	100	100	3335
+AAT91808.1	AAT91808.1 annexin A6 [Gallus gallus]	100	100	1306
+NP_990334.1	NP_990334.1 heat shock cognate 71 kDa protein [Gallus gallus]	100	100	1231
+AAA64694.1	AAA64694.1 complement C3 precursor [Gallus gallus]	100	100	3256
+NP_989904.1	NP_989904.1 filamin-C [Gallus gallus]	100	100	5382
+XP_015134281.1	XP_015134281.1 pyruvate kinase PKM isoform X3 [Gallus gallus]	100	100	1051
+AAB58463.1	AAB58463.1 tissue transglutaminase [Gallus gallus]	100	100	1415
+Q01841.3	Q01841.3 RecName: Full=Protein-glutamine gamma-glutamyltransferase 2; AltName: Full=Tissue transglutaminase; AltName: Full=Transglutaminase C; Short=TG(C); Short=TGC; Short=TGase C; AltName: Full=Transglutaminase-2; Short=TGase-2 [Gallus gallus]	100	100	1415
+NP_990779.1	NP_990779.1 protein-glutamine gamma-glutamyltransferase 2 [Gallus gallus]	100	100	1440
+AAK69350.1	AAK69350.1 heat shock protein 108 [Gallus gallus]	100	100	1434
+P09654.2	P09654.2 RecName: Full=Vimentin [Gallus gallus]	100	100	852
+XP_429118.3	XP_429118.3 ATP synthase subunit alpha, mitochondrial isoform X1 [Gallus gallus]	100	100	1056
+BAA25132.1	BAA25132.1 desmin, partial [Gallus gallus]	100	100	728
+XP_015143241.1	XP_015143241.1 chromogranin-A isoform X2 [Gallus gallus]	100	100	682
+NP_990320.2	NP_990320.2 fibrinogen gamma chain precursor [Gallus gallus]	100	100	911
+NP_990618.1	NP_990618.1 lamin-A [Gallus gallus]	100	100	912
+NP_001258840.1	NP_001258840.1 fibrinogen alpha chain isoform 1 precursor [Gallus gallus]	100	100	1452
+P14448.4	P14448.4 RecName: Full=Fibrinogen alpha chain; Contains: RecName: Full=Fibrinopeptide A; Contains: RecName: Full=Fibrinogen alpha chain; Flags: Precursor [Gallus gallus]	100	100	1451
+CAA25004.1	CAA25004.1 beta-actin [Gallus gallus]	100	100	759
+NP_990682.1	NP_990682.1 annexin A2 [Gallus gallus]	100	100	665
+NP_001026400.1	NP_001026400.1 actin, aortic smooth muscle [Gallus gallus]	100	100	765
+NP_990800.1	NP_990800.1 pyruvate kinase PKM [Gallus gallus]	100	100	1047
+XP_015134282.1	XP_015134282.1 pyruvate kinase PKM isoform X1 [Gallus gallus]	100	100	1090
+NP_001074329.2	NP_001074329.2 tubulin beta-3 chain [Gallus gallus]	100	100	901
+NP_990136.1	NP_990136.1 tyrosine 3-monooxygenase [Gallus gallus]	100	100	993

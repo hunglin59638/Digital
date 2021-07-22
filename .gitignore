@@ -5,4 +5,8 @@
 .spyproject/
 deprecated/
 lib/
+modules/.env
 .vscode/
+ssh/
+lib/
+db/
