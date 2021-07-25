@@ -133,7 +133,7 @@ def main():
                          output=f"{out_dir}/{prefix}",
                          threads=threads, mode="diamond",
                          data_dir=data_dir,
-                         dmnd_db=data_dir / "eggnog_proteins.dmnd")
+                         dmnd_db=data_dir / "eggnog_proteins.dmnd", resume=True)
     if nr_dmnd:
         for key in annot_dict.keys():
             annot_dict[key].update({"NR": seqid2name[key]})
@@ -244,9 +244,11 @@ def emapper(fa, output, threads=os.cpu_count(), mode="diamond",
         subprocess.call(cmd)
     
         cmd = [emapper_path, "-i", fa, "--annotate_hits_table",
-               str(output) + ".emapper.seed_orthologs",
+               str(output) + ".emapper.seed_orthologs", 
                "-o", output, "--cpu", str(threads),"--pfam_realign","denovo",
                "--override"]
+        if "data_dir" in kwargs:
+            cmd.extend(["--data_dir", kwargs["data_dir"]])
         
         subprocess.call(cmd)
         
