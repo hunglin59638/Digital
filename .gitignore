@@ -10,3 +10,4 @@ modules/.env
 ssh/
 lib/
 db/
+test/docker*

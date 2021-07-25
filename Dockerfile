@@ -24,6 +24,7 @@ ADD . .
 RUN python3 setup.py
 WORKDIR lib
 RUN wget -qO- http://github.com/bbuchfink/diamond/releases/download/v2.0.8/diamond-linux64.tar.gz | tar xzf -
+RUN mkdir /opt/digital/db
 RUN  mkdir /data
 WORKDIR /data
 
