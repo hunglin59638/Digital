@@ -132,6 +132,7 @@ def main():
     annot_dict = emapper(fa=fasta,
                          output=f"{out_dir}/{prefix}",
                          threads=threads, mode="diamond",
+                         data_dir=data_dir,
                          dmnd_db=data_dir / "eggnog_proteins.dmnd")
     if nr_dmnd:
         for key in annot_dict.keys():
