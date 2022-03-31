@@ -11,3 +11,4 @@ ssh/
 lib/
 db/
 test/docker*
+test/tmp

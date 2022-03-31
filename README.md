@@ -41,8 +41,14 @@ gzip -d nr.dmnd.gz
  download_eggnog_data.py -y --data_dir [eggnog_data_dir]
 ```
 ## Test
++ ubuntu 
 ```
 digital --fasta test/test.faa --out_dir test/out --prefix test --data_dir [eggnog_data_dir]
+```  
++ docker 
+```
+docker run -v [out_dir]:/data -v [eggnong_dir]:/opt/digital/db/eggnong  -v [nr_dmnd_dir]:/opt/digital/db/diamond hunglin59638/digital:latest digital --fasta /opt/digital/test/test.faa --out_dir [out_dir] --prefix test --data_dir /opt/digital/db/eggnong
+
 ```
 ## Usage
 + use diamond and emapper
